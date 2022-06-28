@@ -3,7 +3,7 @@ HomeAssistant 钉钉群机器人消息推送
 
 修改自： \
 https://bbs.hassbian.com/thread-3920-1-1.html \
-文档：
+钉钉开放文档： \
 https://open.dingtalk.com/document/group/custom-robot-access 
 
 
