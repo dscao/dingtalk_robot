@@ -1,0 +1,14 @@
+{
+  "domain": "dingtalk_robot",
+  "name": "Dingtalk Robot",
+  "config_flow": false,
+  "documentation": "https://github.com/dscao/dingtalk_robot/",
+  "issue_tracker": "https://bbs.hassbian.com/thread-3920-1-1.html",
+  "requirements": [
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "leoyanger", "@dscao"
+  ],
+  "version": "2022.6.29"
+}
